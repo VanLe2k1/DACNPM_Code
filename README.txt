@@ -3,9 +3,9 @@ Bài tập lớn môn Đồ án CNPM
 Chủ đề: Lập trình website bằng công nghệ Aps.net 
 1,Tên Project : DACNPM  
 2,Thành viên tham gia: 
-	- Lê Văn Văn - 1921050682
-	- Nguyễn Việt Phương - 1921050469
-	- Vũ Lâm Phương - 1921050788
+	- Lê Văn Văn
+	- Nguyễn Việt Phương
+	- Vũ Lâm Phương 
 3,Tổng quan Project 
 	- Project được thực hiện bằng công nghệ Aps.net với mô hình MVC có sử dụng Entity Framework Core.
 	- Hệ quản trị csdl : SQLServer 
@@ -22,12 +22,6 @@ Chủ đề: Lập trình website bằng công nghệ Aps.net
 	- Vào View chọn Solution Explorer và mở file appsetting.json. 
 	- Thay đường dẫn ConnectionString bằng đường dẫn vừa copy ở trên. 
 	- Sau khi thực hiện các bước cần build lại và chạy. 
-	Lưu ý : Nếu có lỗi hoặc không hiển thị dữ liệu cần xử lý bằng cách 
-		- Trên thanh công cụ chọn Tools -> NuGet Package Manager -> Package Manager Console
-		- Sau khi hiển thị hộp Package Manager Console, nhập câu lệnh : update-database 
-		- Sau khi update xong chạy lại chương trình. 
-6,TK test chương trình
-Vai trò Admin : admin@gmail.com / 123456
-Vai trò người dùng : customer@gmail.com / 123456
+
 
 	
