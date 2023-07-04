@@ -1,13 +1,12 @@
 # DACNPM
 Bài tập lớn môn Đồ án CNPM
-Chủ đề: Lập trình website bằng công nghệ Aps.net 
+Chủ đề: Lập trình website bằng công nghệ Asp.net 
 1,Tên Project : DACNPM  
 2,Thành viên tham gia: 
 	- Lê Văn Văn
 	- Nguyễn Việt Phương
-	- Vũ Lâm Phương 
 3,Tổng quan Project 
-	- Project được thực hiện bằng công nghệ Aps.net với mô hình MVC có sử dụng Entity Framework Core.
+	- Project được thực hiện bằng công nghệ Asp.net với mô hình MVC có sử dụng Entity Framework Core.
 	- Hệ quản trị csdl : SQLServer 
 4,Công cụ hỗ trợ 
 	- Visual Studio 2022 
